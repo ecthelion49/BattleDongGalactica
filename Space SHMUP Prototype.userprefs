@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\Parallax.cs">
+    <Files>
+      <File FileName="Assets\_Scripts\Enemy_4.cs" Line="14" Column="27" />
+      <File FileName="Assets\_Scripts\Enemy_2.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Enemy_1.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Weapon.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Hero.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\PowerUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Utils.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Shield.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Main.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Enemy_3.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Parallax.cs" Line="23" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>W_DEFS</Value>
+          <Value>wt</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Unity projects\Space SHMUP Prototype\Assets\_Scripts\Weapon.cs" line="125" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
